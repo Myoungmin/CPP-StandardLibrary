@@ -142,6 +142,7 @@
     <ClCompile Include="CPP-StandardLibrary.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="VectorFind.h" />
     <ClInclude Include="VectorMinMaxh.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

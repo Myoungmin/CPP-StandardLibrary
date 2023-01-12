@@ -1,6 +1,8 @@
-﻿#include "VectorMinMaxh.h"
+﻿//#include "VectorMinMaxh.h"
+#include "VectorFind.h"
 
 int main()
 {
-    TestVectorMinMax();
+    //TestVectorMinMax();
+    TestVectorFind();
 }

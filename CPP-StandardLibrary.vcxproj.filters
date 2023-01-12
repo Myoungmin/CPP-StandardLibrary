@@ -26,5 +26,8 @@
     <ClInclude Include="VectorMinMaxh.h">
       <Filter>Header Files\vector</Filter>
     </ClInclude>
+    <ClInclude Include="VectorFind.h">
+      <Filter>Header Files\vector</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
